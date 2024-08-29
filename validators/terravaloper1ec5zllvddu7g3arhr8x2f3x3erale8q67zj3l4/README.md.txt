@@ -13,7 +13,7 @@ Website: https://catwifhat-project.gitbook.io/community.alliance
 
 ## Community Alliance
 
-We are providing validator service. Reap what you sow. Let's stake Luna.
+At Community Alliance, we aim to empower and uplift the Luna Classic (LUNC) community by providing a secure, transparent, and efficient validation service.
 
 ## Contact Us
 
