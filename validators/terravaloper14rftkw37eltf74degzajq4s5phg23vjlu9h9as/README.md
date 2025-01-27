@@ -2,6 +2,7 @@
 Moniker: Core Dev
 Validator: terravaloper14rftkw37eltf74degzajq4s5phg23vjlu9h9as
 Email: 0xtsunami@proton.me
+Telegram: https://t.me/coardev
 ---
 
 # Core Dev
