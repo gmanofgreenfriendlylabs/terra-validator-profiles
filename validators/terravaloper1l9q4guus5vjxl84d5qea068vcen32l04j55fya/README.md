@@ -12,7 +12,7 @@ Validator: terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8
 
 # greenfriendlylabs
 
-
+![greenfriendlylabs](./logo.jpg)
     
 greenfriendlylabs is an enterprise-level non-custodial Luna Classic (LUNC) Validator owned by greenfriendlylabs.com. Enjoy excellent uptimes, high security and decentralisation.
 
@@ -36,9 +36,9 @@ Security is at the core of our approach: robust backup systems provide a safe en
 Spread the word and encourage your friends to stake their LUNC with greenfriendlylabs – for a more sustainable future.
   
   
-## Contact Me  
+## Contact Us  
 
-Have questions? You can reach me:
+Have questions? You can reach us:
 
 - Email: contact@greenfriendlylabs.com
 - Website: https://www.greenfriendlylabs.com
