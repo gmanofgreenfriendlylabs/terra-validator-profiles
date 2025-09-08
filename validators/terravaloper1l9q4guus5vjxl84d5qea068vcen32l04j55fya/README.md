@@ -1,5 +1,5 @@
 ---
-Moniker: greenfriendlylabs
+Moniker: greenfriendlylabs.com
 Validator: terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8
 ---
 ---
